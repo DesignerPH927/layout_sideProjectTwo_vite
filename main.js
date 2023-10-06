@@ -7,13 +7,9 @@ import './javaScripts/btnToggle.js';
 // changeBox
 import './javaScripts/changeBox.js';
 
-// rotateArrow
-import './javaScripts/rotateArrow.js';
-
-
 // openModal
 import './javaScripts/openModal.js';
 
+// rotateArrow
+// import './javaScripts/rotateArrow.js';
 
-
-console.log("Hello world!");
