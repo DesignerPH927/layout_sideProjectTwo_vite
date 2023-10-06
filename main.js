@@ -8,7 +8,7 @@ import './javaScripts/btnToggle.js';
 import './javaScripts/changeBox.js';
 
 // openModal
-import './javaScripts/openModal.js';
+// import './javaScripts/openModal.js';
 
 // rotateArrow
 // import './javaScripts/rotateArrow.js';
