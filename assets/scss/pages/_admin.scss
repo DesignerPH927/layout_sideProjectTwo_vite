@@ -1,0 +1,21 @@
+
+
+.page-link {
+  color: #212529;
+  border: 1px solid #198754;
+  transition: .5s ease;
+}
+
+.page-link:hover {
+  background: #198754;
+  color: #fff;
+}
+.pictureModel {
+  --bs-modal-border-radius:none;
+}
+.dropArrow {
+  transition: .3s ease;
+}
+.dropArrow.rotateArrow {
+  transform: rotate(180deg);
+}

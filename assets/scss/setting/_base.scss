@@ -1,0 +1,21 @@
+body {  
+  @include fontFamily_lato;
+  color: #212529;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+ul,ol {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}

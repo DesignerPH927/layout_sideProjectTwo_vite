@@ -1,0 +1,17 @@
+
+
+@import 'bootstrap/scss/functions';
+
+@import './setting/variables';
+
+@import 'bootstrap/scss/bootstrap';
+
+@import './setting/mixins';
+@import './setting/base';
+
+@import './layout/header.scss';
+@import './layout/footer.scss';
+
+@import './layout/asideBar';
+@import './pages/index.scss';
+@import './pages/admin';

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Mono&display=swap');
+
+
+
+@mixin fontFamily_lato {
+  font-family: 'Lato', sans-serif;
+}
+
+@mixin fontFamily_roboto {
+  font-family: 'Roboto Mono', monospace;
+}
+
+// Responsive
+
+@mixin deskTop {
+  @media (max-width: 992px) {
+    @content
+  }
+}
+
+@mixin pad {
+  @media (max-width: 767px) {
+    @content
+  }
+}
+
+@mixin mobile {
+  @media (max-width: 376px) {
+    @content
+  }
+}
+
